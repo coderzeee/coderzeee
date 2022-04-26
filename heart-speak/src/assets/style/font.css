@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'cuteFont'; /* 重命名字体名 */
+    src: url('../font/shiguang.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
